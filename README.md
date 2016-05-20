@@ -6,6 +6,6 @@ A szerveren választhattok 2 játékmenet közül:
 - Katonák
 
 A Hacker tud ajtókat feltörni, Kamerákat
-deaktiválni, stb.! :)
+deaktiválni, stb.! :) 
 A katonának van sokkolója, paprikaspréje.
 Hamarosan jöhettek kipróbálni!
