@@ -1,11 +1,10 @@
 Indul a fejlesztés!
 
 Hamarosan kész vagyunk a BÉTA verzióval!
-A szerveren választhattok, hogy inkább:
+A szerveren választhattok 2 játékmenet közül:
 - Hackerek
-Vagy
 - Katonák
-Akartok lenni.
+
 A Hacker tud ajtókat feltörni, Kamerákat
 deaktiválni, stb.! :)
 A katonának van sokkolója, paprikaspréje.
