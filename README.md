@@ -1,0 +1,2 @@
+# hackervsarmy
+HackerVSArmy szerver
